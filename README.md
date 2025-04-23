@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```
-npm install
+npm install --force
 ```
 
 ### Start the Web App:
